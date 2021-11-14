@@ -1,1 +1,2 @@
 This is dummy feature 1
+This is dummy feature 4 added in dummyfeature 4 branch
